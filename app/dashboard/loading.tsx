@@ -1,4 +1,4 @@
-export default function AppLoading() {
+export default function DashboardLoading() {
   return (
     <div className="flex min-h-[12rem] items-center justify-center">
       <p className="text-sm text-muted-foreground">Loading…</p>

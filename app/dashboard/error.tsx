@@ -1,6 +1,6 @@
 "use client";
 
-export default function AppError({
+export default function DashboardError({
   error,
   reset,
 }: {
